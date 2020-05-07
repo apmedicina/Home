@@ -546,7 +546,6 @@ section.form .container {
 
 
 
-
 #msg-box8-t .mbr-section-title,
 #msg-box8-t p {
   color: #fff;
@@ -622,17 +621,25 @@ section.form .container {
 #menu-12 .dropdown-item[aria-expanded="true"] {
   color: #eb6b56!important;
 }
-#gallery4-s LI {
-  font-family: 'Indie Flower', cursive;
-  font-size: 20px;
+#features3-14 P {
+  text-align: center;
+  color: #ffffff;
 }
-#social-buttons3-h .mbr-section-title,
-#social-buttons3-h .btn-social {
+#features3-14 H5 {
+  color: #c1c1c1;
+}
+#features3-14 H4 {
+  color: #ffffff;
+}
+#social-buttons4-1g .mbr-section-title,
+#social-buttons4-1g .btn-social {
   color: #fff;
 }
-#social-buttons3-h .mbr-section-title {
+#social-buttons4-1g .mbr-section-title {
   font-family: 'Indie Flower', cursive;
 }
+
+
 
 
 
@@ -649,9 +656,15 @@ section.form .container {
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
 }
-#social-buttons3-11 .mbr-section-title,
-#social-buttons3-11 .btn-social {
-  color: #fff;
+#form1-1c .form-control-label {
+  color: #232323;
+}
+#form1-1c .mbr-section-title {
+  font-family: 'Indie Flower', cursive;
+}
+#form1-1c SMALL {
+  font-family: 'Indie Flower', cursive;
+  color: #000000;
 }
 #menu-12 .hide-buttons .nav-btn {
   display: none !important;
