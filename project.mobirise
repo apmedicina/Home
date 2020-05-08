@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.2",
     "siteFonts": [],
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -414,7 +414,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://mega.nz/file/tSxDiTCI#3dd7SVwK06Tdv5UxzRnuHZ9--5gM6nxjZKz25v-PScM",
+              "link": "https://mega.nz/file/ZbQ3VYyT#JSC_o2mWaEheSeyXhCeHA0nDWpHcsLbsZdCWep-9DcU",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -422,13 +422,14 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/costanzo4-245x320.jpg",
+              "src": "@PROJECT_PATH@/assets/images/costanzo4-245x308.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://mega.nz/file/dK5Rma4A#R6cZEc888W-u76EBKoGsTD5JjIB65FhVMKDONXxAhEU",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -437,9 +438,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://mega.nz/file/BL5h2Y6J#4k8Oo1-WvhzKiGBinY3fh7Ta3C8AEyyzQjGChskkM-Y",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -448,9 +450,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://mega.nz/file/BGoBHYwS#Zyoi16yqKAjkjf8M4h1h7bOYEYIuUtHUrVA8KqlaRuU",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -538,7 +541,7 @@
             "Theme"
           ],
           "text": "¡Comparte esta pagina!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://web.facebook.com/APMEDICINA/?ref=bookmarks\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1g"
         }
@@ -574,8 +577,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
             "parallax": true,
