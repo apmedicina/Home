@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-21_0718",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -429,7 +429,7 @@
               "link": "https://mega.nz/file/dK5Rma4A#R6cZEc888W-u76EBKoGsTD5JjIB65FhVMKDONXxAhEU",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -441,7 +441,7 @@
               "link": "https://mega.nz/file/BL5h2Y6J#4k8Oo1-WvhzKiGBinY3fh7Ta3C8AEyyzQjGChskkM-Y",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "media4": {
@@ -453,7 +453,7 @@
               "link": "https://mega.nz/file/BGoBHYwS#Zyoi16yqKAjkjf8M4h1h7bOYEYIuUtHUrVA8KqlaRuU",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "media5": {
